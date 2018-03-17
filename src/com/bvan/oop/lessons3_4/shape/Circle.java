@@ -32,5 +32,3 @@ public class Circle implements Shape {
                 '}';
     }
 }
-
-// public static final String APP_NAME = "asdfasf";
